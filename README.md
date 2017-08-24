@@ -12,7 +12,7 @@ Steps:
     python.exe -m pip install <module name(s)>
 
 Voila!!! You can run your Python scripts as:
-python.exe <yourscriptname>.py
+python.exe <your_script_name>.py
 
 Note:
 I have included a Python folder for your reference which you can reuse it for your own purpose.
